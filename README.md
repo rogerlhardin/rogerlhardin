@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rogerlhardin
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently getting a ML certificate from Cornell University
+- 🌱 I have a ML certificate from Cornell University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
