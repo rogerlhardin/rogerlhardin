@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rogerlhardin
 - 👀 I’m interested in Machine Learning
 - 🌱 I have a ML certificate from Cornell University, MS CS from DePaul University, and BS EE from DeVry University
-- 💞️ I’m looking to collaborate on CBOE VIX, Amateur Radio, and Exoplanet Detection ML projects
+- 💞️ I’m looking to collaborate on ML projects for the following: CBOE VIX, Amateur Radio, and Exoplanet Detection
 - 📫 How to reach me ...
 
 <!---
