@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rogerlhardin
 - 👀 I’m interested in Machine Learning
-- 🌱 I have a ML certificate from Cornell University
+- 🌱 I have a ML certificate from Cornell University, MS CS from DePaul University, and BS EE from DeVry University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
